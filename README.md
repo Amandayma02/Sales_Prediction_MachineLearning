@@ -51,5 +51,7 @@ It increases the accuracy of Decision Trees and Random Forests but decreases the
 
 ## Contributors
 
-- Aditya Bagri - 2022029
-- Suyash Kumar - 2021293
+-AMAN DAYMA 23MCA10067
+-RAHUL JOSHI 23MCA10105
+-NAVNIT KUMAR 23MCA10030
+-ABHISHEK KUMAR 23MCA10192
