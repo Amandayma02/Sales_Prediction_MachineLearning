@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the code for a group project completed for the course CSE342 - Statistical Machine Learning. The goal of this project is to predict the future sales of items for a store using various data columns provided in the dataset.
+This repository contains the code for a group project completed for the MCA - Statistical Machine Learning. The goal of this project is to predict the future sales of items for a store using various data columns provided in the dataset.
 
 ## Dataset Information
 
